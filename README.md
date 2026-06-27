@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6366F1,100:8B5CF6&height=220&section=header&text=Syed%20Waqar%20Ali%20Zaidi&fontSize=42&fontColor=A78BFA&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Agentic%20Systems%20Developer%20%7C%20Automation%20Engineer&descAlignY=58&descSize=18&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:B026FF,100:FF00E5&height=220&section=header&text=Syed%20Waqar%20Ali%20Zaidi&fontSize=42&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Agentic%20Systems%20Developer%20%7C%20Automation%20Engineer&descAlignY=58&descSize=18&descColor=FF00E5" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=const+engineer+%3D+%7B;%20%20role%3A+%22AI+%26+Agentic+Systems+Developer%22%2C;%20%20stack%3A+%5B%22Python%22%2C+%22n8n%22%2C+%22LLMs%22%2C+%22MCP%22%5D%2C;%20%20focus%3A+%22Multi-Agent+Orchestration%22;%7D%3B&font=Fira+Code&center=true&width=720&height=100&color=A78BFA&vCenter=true&size=22&pause=1500&background=0D111700" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=const+engineer+%3D+%7B;%20%20role%3A+%22AI+%26+Agentic+Systems+Developer%22%2C;%20%20stack%3A+%5B%22Python%22%2C+%22JS%22%2C+%22C%2B%2B%22%2C+%22C%22%5D%2C;%20%20focus%3A+%22Multi-Agent+Orchestration%22;%7D%3B&font=Fira+Code&center=true&width=720&height=100&color=00F0FF&vCenter=true&size=22&pause=1500&background=0A0A0F00" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![University](https://img.shields.io/badge/BS_Artificial_Intelligence-University_of_Karachi-6366F1?style=flat-square&logo=google-scholar&logoColor=white)](https://uok.edu.pk)
-[![Location](https://img.shields.io/badge/Based_in-Karachi%2C_Pakistan-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)](#)
-[![IELTS](https://img.shields.io/badge/IELTS_Academic-7_Bands-A78BFA?style=flat-square&logo=googletranslate&logoColor=white)](#)
+[![University](https://img.shields.io/badge/BS_Artificial_Intelligence-University_of_Karachi-B026FF?style=flat-square&logo=google-scholar&logoColor=white)](https://uok.edu.pk)
+[![Location](https://img.shields.io/badge/Based_in-Karachi%2C_Pakistan-FF00E5?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![IELTS](https://img.shields.io/badge/IELTS_Academic-7_Bands-00F0FF?style=flat-square&logo=googletranslate&logoColor=black)](#)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/CV%2FResume-8B5CF6?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1iU5zUy69jLdkzqNBXaW-eDJBfYzs2LI4/view?usp=sharing)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-waqar-ali-zaidi-295b7339a/)
-[![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidialiwaqarsyed2006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedWaqarAliZaidi)
+[![Portfolio](https://img.shields.io/badge/CV%2FResume-B026FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1iU5zUy69jLdkzqNBXaW-eDJBfYzs2LI4/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF00E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-waqar-ali-zaidi-295b7339a/)
+[![Email](https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:zaidialiwaqarsyed2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedWaqarAliZaidi)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SyedWaqarAliZaidi&style=flat-square&color=8b5cf6&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/SyedWaqarAliZaidi?style=flat-square&color=6366f1&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/SyedWaqarAliZaidi?style=flat-square&color=a78bfa&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=SyedWaqarAliZaidi&style=flat-square&color=ff00e5&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/SyedWaqarAliZaidi?style=flat-square&color=00f0ff&labelColor=0A0A0F)
+![Stars](https://img.shields.io/github/stars/SyedWaqarAliZaidi?style=flat-square&color=b026ff&labelColor=0A0A0F)
 
 </div>
 
@@ -50,47 +50,29 @@ open_to: AI Engineer · Agentic Systems Developer · AI Automation Engineer role
 
 <div align="center">
 
-**Languages**
+**Core Languages**
 
 ![Python](https://skillicons.dev/icons?i=python&theme=dark)
 ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
-![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark)
-![C](https://skillicons.dev/icons?i=c&theme=dark)
 ![Cpp](https://skillicons.dev/icons?i=cpp&theme=dark)
-![HTML](https://skillicons.dev/icons?i=html&theme=dark)
-![CSS](https://skillicons.dev/icons?i=css&theme=dark)
+![C](https://skillicons.dev/icons?i=c&theme=dark)
 
-**Frontend**
+**Backend & Tooling**
 
-![React](https://skillicons.dev/icons?i=react&theme=dark)
-![Vite](https://skillicons.dev/icons?i=vite&theme=dark)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=dark)
-![Flask](https://skillicons.dev/icons?i=flask&theme=dark)
-
-**Backend & Databases**
-
-![Flask](https://skillicons.dev/icons?i=flask&theme=dark)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark)
-![Sqlite](https://skillicons.dev/icons?i=sqlite&theme=dark)
-
-**Cloud, DevOps & Tooling**
-
 ![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
 ![Git](https://skillicons.dev/icons?i=git&theme=dark)
 ![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
-![GCP](https://skillicons.dev/icons?i=gcp&theme=dark)
-![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)
 ![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
 ![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
 
 **AI & Automation**
 
-[![n8n](https://img.shields.io/badge/n8n-6366F1?style=flat-square&logo=n8n&logoColor=white)](#)
-[![Zapier](https://img.shields.io/badge/Zapier-8B5CF6?style=flat-square&logo=zapier&logoColor=white)](#)
-[![Ollama](https://img.shields.io/badge/Ollama-A78BFA?style=flat-square&logo=ollama&logoColor=white)](#)
-[![MCP](https://img.shields.io/badge/MCP_Servers-6366F1?style=flat-square&logo=anthropic&logoColor=white)](#)
-[![Claude](https://img.shields.io/badge/Claude_AI-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)](#)
+[![n8n](https://img.shields.io/badge/n8n-B026FF?style=flat-square&logo=n8n&logoColor=white)](#)
+[![Zapier](https://img.shields.io/badge/Zapier-FF00E5?style=flat-square&logo=zapier&logoColor=white)](#)
+[![Ollama](https://img.shields.io/badge/Ollama-00F0FF?style=flat-square&logo=ollama&logoColor=black)](#)
+[![MCP](https://img.shields.io/badge/MCP_Servers-B026FF?style=flat-square&logo=anthropic&logoColor=white)](#)
+[![Claude](https://img.shields.io/badge/Claude_AI-FF00E5?style=flat-square&logo=anthropic&logoColor=white)](#)
 
 </div>
 
@@ -136,14 +118,13 @@ A 6-agent fantasy RPG system built for the **Microsoft Agents League Hackathon**
 <summary><b>🛡️ The Warden's Labyrinth — AI Adaptive Mobile Game</b></summary>
 <br/>
 
-A cyberpunk adaptive game built in **5 days** with a 3-person team for the **Google AISeekho 2026 Hackathon**, orchestrating three simultaneous AI agents — a Strategy Agent for dynamic difficulty, a Narrative Agent for dynamic taunts, and a Referee Agent enforcing fair play — on a modern React 19 + TanStack Start stack.
+A cyberpunk adaptive game built in **5 days** with a 3-person team for the **Google AISeekho 2026 Hackathon**, orchestrating three simultaneous AI agents — a Strategy Agent for dynamic difficulty, a Narrative Agent for dynamic taunts, and a Referee Agent enforcing fair play.
 
 | | |
 |---|---|
-| **Stack** | React 19 · TanStack Start · Vite 7 · TailwindCSS 4 · Radix UI · Cloudflare Workers |
+| **Stack** | React · TanStack Start · Vite · TailwindCSS · Cloudflare Workers |
 | **Scale** | 3 simultaneous AI agents · real-time multi-agent orchestration backend |
 | **Performance** | Edge-deployed via Cloudflare Workers for low-latency response |
-| **Security** | Type-safe TypeScript codebase with strict ESLint + Prettier enforcement |
 | **Impact** | Built and shipped end-to-end in 5 days for a national-level AI hackathon |
 | **Repository** | [AI-Warden-Run-Google-AI-Hackathon](https://github.com/SyedWaqarAliZaidi/AI-Warden-Run-Google-AI-Hackathon) |
 
@@ -160,7 +141,6 @@ End-to-end machine learning pipeline analyzing **19,000+ real-world car records*
 | **Stack** | Python · Scikit-learn · XGBoost · Pandas · Seaborn · Matplotlib |
 | **Scale** | 19,000+ records · 5 ML models compared · 5 engineered visualizations |
 | **Performance** | Random Forest achieved the lowest Mean Absolute Error among all models tested |
-| **Security** | Public Kaggle dataset — no sensitive or proprietary data involved |
 | **Impact** | Demonstrated complete EDA-to-deployment ML workflow with feature engineering |
 | **Repository** | [Data-Science-Projects](https://github.com/SyedWaqarAliZaidi/Data-Science-Projects) |
 
@@ -177,7 +157,6 @@ End-to-end automation pipeline for lead discovery, AI-powered scoring, pain-poin
 | **Stack** | n8n · Claude AI · Gemini · Apify · Vibe Prospecting MCP · Google Sheets CRM · Slack |
 | **Scale** | Full pipeline from lead discovery through CRM-synced outreach |
 | **Performance** | Automated deduplication and pipeline management at production scale |
-| **Security** | Client data isolated per workflow with credential-scoped API access |
 | **Impact** | Closed first independent client running on this exact pipeline |
 | **Repository** | *Private client deployment* |
 
@@ -224,17 +203,17 @@ End-to-end automation pipeline for lead discovery, AI-powered scoring, pain-poin
 
 **Google**
 
-[![Generative AI](https://img.shields.io/badge/Intro_to_Generative_AI-Google-6366F1?style=flat-square&logo=google&logoColor=white)](#)
-[![LLMs](https://img.shields.io/badge/Intro_to_LLMs-Google-8B5CF6?style=flat-square&logo=google&logoColor=white)](#)
-[![AI Agents](https://img.shields.io/badge/Intro_to_AI_Agents-Google-A78BFA?style=flat-square&logo=google&logoColor=white)](#)
+[![Generative AI](https://img.shields.io/badge/Intro_to_Generative_AI-Google-B026FF?style=flat-square&logo=google&logoColor=white)](#)
+[![LLMs](https://img.shields.io/badge/Intro_to_LLMs-Google-FF00E5?style=flat-square&logo=google&logoColor=white)](#)
+[![AI Agents](https://img.shields.io/badge/Intro_to_AI_Agents-Google-00F0FF?style=flat-square&logo=google&logoColor=black)](#)
 
 **NED University of Engineering & Technology**
 
-[![Data Science](https://img.shields.io/badge/Data_Science_Course-NED_University-6366F1?style=flat-square&logo=googlescholar&logoColor=white)](#)
+[![Data Science](https://img.shields.io/badge/Data_Science_Course-NED_University-B026FF?style=flat-square&logo=googlescholar&logoColor=white)](#)
 
 **English Proficiency**
 
-[![IELTS](https://img.shields.io/badge/IELTS_Academic-7_Bands-8B5CF6?style=flat-square&logo=googletranslate&logoColor=white)](#)
+[![IELTS](https://img.shields.io/badge/IELTS_Academic-7_Bands-FF00E5?style=flat-square&logo=googletranslate&logoColor=white)](#)
 
 </div>
 
@@ -244,11 +223,11 @@ End-to-end automation pipeline for lead discovery, AI-powered scoring, pain-poin
 
 <div align="center">
 
-[![University of Karachi](https://img.shields.io/badge/BS_Artificial_Intelligence-University_of_Karachi-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+[![University of Karachi](https://img.shields.io/badge/BS_Artificial_Intelligence-University_of_Karachi-B026FF?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
 
 `Jan 2025 — Present` · Python · C/C++ · DSA · OOP · Discrete Structures · Digital Logic Design
 
-[![Pakistan Steel Cadet College](https://img.shields.io/badge/Pre--Engineering_(HSC)-Pakistan_Steel_Cadet_College-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+[![Pakistan Steel Cadet College](https://img.shields.io/badge/Pre--Engineering_(HSC)-Pakistan_Steel_Cadet_College-FF00E5?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
 
 `Aug 2022 — Jul 2024` · Grade A · Board Position Holder · College Speaker
 
@@ -260,7 +239,7 @@ End-to-end automation pipeline for lead discovery, AI-powered scoring, pain-poin
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-6366F1?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SyedWaqarAliZaidi/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-B026FF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SyedWaqarAliZaidi/)
 
 </div>
 
@@ -270,14 +249,16 @@ End-to-end automation pipeline for lead discovery, AI-powered scoring, pain-poin
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SyedWaqarAliZaidi&show_icons=true&theme=transparent&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9&border_color=6366F1&hide_border=false" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedWaqarAliZaidi&theme=dark&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&border=6366F1" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SyedWaqarAliZaidi&show_icons=true&theme=transparent&bg_color=0A0A0F&title_color=FF00E5&icon_color=00F0FF&text_color=C9D1D9&border_color=B026FF&hide_border=false" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedWaqarAliZaidi&theme=dark&background=0A0A0F&stroke=B026FF&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&border=B026FF" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedWaqarAliZaidi&layout=compact&theme=transparent&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&border_color=6366F1&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedWaqarAliZaidi&layout=compact&theme=transparent&bg_color=0A0A0F&title_color=FF00E5&text_color=C9D1D9&border_color=B026FF&hide_border=false" />
 
 </div>
+
+> 📊 All stats above are **live** — they query the GitHub API in real time on every page load. As you commit, your streak, language breakdown, and stats update automatically.
 
 <br/>
 
@@ -285,7 +266,7 @@ End-to-end automation pipeline for lead discovery, AI-powered scoring, pain-poin
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SyedWaqarAliZaidi&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SyedWaqarAliZaidi&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -295,7 +276,7 @@ End-to-end automation pipeline for lead discovery, AI-powered scoring, pain-poin
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedWaqarAliZaidi&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=6366F1&area=true&area_color=6366F1&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedWaqarAliZaidi&bg_color=0A0A0F&color=00F0FF&line=FF00E5&point=B026FF&area=true&area_color=B026FF&hide_border=true" width="100%"/>
 
 </div>
 
@@ -308,6 +289,8 @@ End-to-end automation pipeline for lead discovery, AI-powered scoring, pain-poin
 <img src="https://raw.githubusercontent.com/SyedWaqarAliZaidi/SyedWaqarAliZaidi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
+
+> 🐍 Snake regenerates **daily** via GitHub Actions (not real-time like the stats above — runs on a 24h cron).
 
 <br/>
 
@@ -336,10 +319,10 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidialiwaqarsyed2006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-waqar-ali-zaidi-295b7339a/)
-[![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedWaqarAliZaidi)
-[![Portfolio](https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1iU5zUy69jLdkzqNBXaW-eDJBfYzs2LI4/view?usp=sharing)
+[![Gmail](https://img.shields.io/badge/Gmail-B026FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidialiwaqarsyed2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF00E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-waqar-ali-zaidi-295b7339a/)
+[![GitHub](https://img.shields.io/badge/GitHub-00F0FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SyedWaqarAliZaidi)
+[![Portfolio](https://img.shields.io/badge/Resume-0A0A0F?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1iU5zUy69jLdkzqNBXaW-eDJBfYzs2LI4/view?usp=sharing)
 
 </div>
 
@@ -349,6 +332,6 @@ current_focus:
 
 *"Build, deploy, and ship — not just study."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0D1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:B026FF,100:0A0A0F&height=120&section=footer" width="100%"/>
 
 </div>
