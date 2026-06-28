@@ -28,11 +28,11 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-waqar-ali-zaidi-295b7339a/)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1iU5zUy69jLdkzqNBXaW-eDJBfYzs2LI4/view?usp=sharing)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedWaqarAliZaidi)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SyedWaqarAliZaidi/)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidialiwaqarsyed2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/syed-waqar-ali-zaidi-295b7339a/)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&amp;logo=googledrive&amp;logoColor=white)](https://drive.google.com/file/d/1iU5zUy69jLdkzqNBXaW-eDJBfYzs2LI4/view?usp=sharing)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/SyedWaqarAliZaidi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white)](https://leetcode.com/u/SyedWaqarAliZaidi/)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:zaidialiwaqarsyed2006@gmail.com)
 
 </div>
 
@@ -160,11 +160,11 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <div align="center">
 
-[![Generative AI](https://img.shields.io/badge/Generative_AI-Google-000000?style=flat-square&logo=google&logoColor=white)](#)
-[![LLMs](https://img.shields.io/badge/LLMs-Google-000000?style=flat-square&logo=google&logoColor=white)](#)
-[![AI Agents](https://img.shields.io/badge/AI_Agents-Google-000000?style=flat-square&logo=google&logoColor=white)](#)
-[![Data Science](https://img.shields.io/badge/Data_Science-NED_University-000000?style=flat-square&logo=googlescholar&logoColor=white)](#)
-[![IELTS](https://img.shields.io/badge/IELTS-7_Bands-000000?style=flat-square&logo=googletranslate&logoColor=white)](#)
+[![Generative AI](https://img.shields.io/badge/Generative_AI-Google-000000?style=flat-square&amp;logo=google&amp;logoColor=white)](#)
+[![LLMs](https://img.shields.io/badge/LLMs-Google-000000?style=flat-square&amp;logo=google&amp;logoColor=white)](#)
+[![AI Agents](https://img.shields.io/badge/AI_Agents-Google-000000?style=flat-square&amp;logo=google&amp;logoColor=white)](#)
+[![Data Science](https://img.shields.io/badge/Data_Science-NED_University-000000?style=flat-square&amp;logo=googlescholar&amp;logoColor=white)](#)
+[![IELTS](https://img.shields.io/badge/IELTS-7_Bands-000000?style=flat-square&amp;logo=googletranslate&amp;logoColor=white)](#)
 
 </div>
 
@@ -174,7 +174,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <div align="center">
 
-[![University of Karachi](https://img.shields.io/badge/BS_Artificial_Intelligence-University_of_Karachi-000000?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+[![University of Karachi](https://img.shields.io/badge/BS_Artificial_Intelligence-University_of_Karachi-000000?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white)](#)
 
 `Jan 2025 — Present` · Python · C/C++ · DSA · OOP · Discrete Structures
 
@@ -199,7 +199,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SyedWaqarAliZaidi&style=flat-square&color=2563eb&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=SyedWaqarAliZaidi&amp;style=flat-square&amp;color=2563eb&amp;label=Profile+Views)
 
 </div>
 
