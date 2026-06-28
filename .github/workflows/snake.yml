@@ -21,7 +21,7 @@ jobs:
           github_user_name: SyedWaqarAliZaidi
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%232563EB&color_dots=%23161b22,%23303030,%234d4d4d,%232563EB,%2360a5fa
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:

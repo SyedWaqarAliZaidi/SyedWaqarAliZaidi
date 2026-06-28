@@ -1,18 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:2563EB&height=220&section=header&text=Syed%20Waqar%20Ali%20Zaidi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Agentic%20Systems%20Developer%20%7C%20Automation%20Engineer&descAlignY=58&descSize=18&descColor=2563EB" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,12,2&text=Syed%20Waqar%20Ali%20Zaidi&fontColor=ffffff&fontSize=40&desc=AI%20%26%20Agentic%20Systems%20Developer&descAlignY=58&descSize=18" alt="header banner"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=800&height=70&lines=AI+%26+Agentic+Systems+Developer;Python+%7C+JS+%7C+C%2B%2B+%7C+C;Building+Agentic+Systems+%26+Automation" alt="Typing SVG" />
-</a>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=50&lines=AI+%26+Agentic+Systems+Developer;Python+%7C+JavaScript+%7C+C%2B%2B+%7C+C;Building+Agentic+Systems+%26+Automation" alt="typing animation"/>
 
 </div>
 
 <br/>
 
-| |
-|:---|
-| I am a **BS Artificial Intelligence** student at the **University of Karachi**, focused on multi-agent AI systems and production automation engineering. My work centers on designing agentic workflows, orchestrating LLM-driven pipelines, and shipping real automation for paying clients — not just classroom projects. <br/><br/> At **Radiant Solutions RS**, I've deployed 15+ AI automation workflows in production, architected a full B2B lead-generation system, and managed Oracle Cloud VPS infrastructure end-to-end. I've also competed in two national AI hackathons, building multi-agent systems from scratch in days, not weeks. <br/><br/> Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside ongoing automation engineering work. |
+<table align="center">
+<tr>
+<td>
+
+I am a **BS Artificial Intelligence** student at the **University of Karachi**, focused on multi-agent AI systems and production automation engineering. My work centers on designing agentic workflows, orchestrating LLM-driven pipelines, and shipping real automation for paying clients — not just classroom projects.
+
+At **Radiant Solutions RS**, I've deployed 15+ AI automation workflows in production, architected a full B2B lead-generation system, and managed Oracle Cloud VPS infrastructure end-to-end. I've also competed in two national AI hackathons, building multi-agent systems from scratch in days, not weeks.
+
+Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside ongoing automation engineering work.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -28,53 +38,36 @@
 
 <br/>
 
-<div align="center">
+<h3 align="center">Core Stack</h3>
 
-`C O R E   S T A C K`
-
-</div>
-
-<div align="center">
-
-Python · JavaScript · C++ · C
-Node.js · Docker
-Git · GitHub
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`D E V   T O O L K I T`
-
-</div>
-
-<div align="center">
-
-[![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![GoogleCloud](https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="python"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="50" alt="javascript"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp"/>
+<img src="https://skillicons.dev/icons?i=c" height="50" alt="c"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs"/>
+<img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker"/>
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="git"/>
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="github"/>
+<img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux"/>
+<img src="https://skillicons.dev/icons?i=gcp" height="50" alt="gcp"/>
+</p>
 
 <br/>
 
-### `T E C H N I C A L   F O C U S`
+<h3 align="center">Technical Focus</h3>
 
 | | |
 |:---:|:---|
-| ▪️ | **Multi-Agent Orchestration:** Designing 3–6 agent systems with role-based dispatch, shared state, and dynamic trust logic across two hackathon builds |
-| ▪️ | **Workflow Automation:** n8n + API integration — 15+ production workflows deployed for enterprise clients, cutting operational costs 40–60% |
-| ▪️ | **LLM Integration:** Claude, Gemini, Groq LLaMA 3.3 70B, OpenRouter — prompt design, grounded retrieval, and agent-to-agent reasoning pipelines |
-| ▪️ | **Infrastructure:** Oracle Cloud VPS, Docker, Cloudflare tunnels, self-hosted LLMs via Ollama — managed end-to-end in production |
-| ▪️ | **Problem Solving:** Building DSA fundamentals in C++ — algorithms and data structures practice, tracked openly in my [DSA repo](https://github.com/SyedWaqarAliZaidi/DSA) |
+| 🤖 | **Multi-Agent Orchestration** — Designing 3–6 agent systems with role-based dispatch, shared state, and dynamic trust logic across two hackathon builds |
+| ⚙️ | **Workflow Automation** — n8n + API integration — 15+ production workflows deployed for enterprise clients, cutting operational costs 40–60% |
+| 🧠 | **LLM Integration** — Claude, Gemini, Groq LLaMA 3.3 70B, OpenRouter — prompt design, grounded retrieval, and agent-to-agent reasoning pipelines |
+| ☁️ | **Infrastructure** — Oracle Cloud VPS, Docker, Cloudflare tunnels, self-hosted LLMs via Ollama — managed end-to-end in production |
+| 📐 | **Problem Solving** — Building DSA fundamentals in C++, tracked openly in my [DSA repo](https://github.com/SyedWaqarAliZaidi/DSA) |
 
 <br/>
 
-### `F E A T U R E D   P R O J E C T S`
+<h3 align="center">Featured Projects</h3>
 
 <details open>
 <summary><b>🏰 Chronicles of Eldervale</b> — Multi-Agent Fantasy RPG</summary>
@@ -133,7 +126,7 @@ Git · GitHub
 
 <br/>
 
-### `E X P E R I E N C E`
+<h3 align="center">Experience</h3>
 
 **AI Automation Engineer & Business Executive**
 *Radiant Solutions RS (Pvt) Ltd · Karachi, Pakistan · Oct 2025 — Mar 2026*
@@ -147,7 +140,7 @@ Git · GitHub
 
 <br/>
 
-### `A C H I E V E M E N T S`
+<h3 align="center">Achievements</h3>
 
 <div align="center">
 
@@ -163,7 +156,7 @@ Git · GitHub
 
 <br/>
 
-### `C E R T I F I C A T I O N S`
+<h3 align="center">Certifications</h3>
 
 <div align="center">
 
@@ -177,7 +170,7 @@ Git · GitHub
 
 <br/>
 
-### `E D U C A T I O N`
+<h3 align="center">Education</h3>
 
 <div align="center">
 
@@ -189,30 +182,44 @@ Git · GitHub
 
 <br/>
 
-### `G I T H U B   A C T I V I T Y`
+<h3 align="center">GitHub Activity</h3>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SyedWaqarAliZaidi&show_icons=true&theme=transparent&bg_color=00000000&title_color=2563EB&icon_color=2563EB&text_color=FFFFFF&border_color=2563EB&hide_border=false" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedWaqarAliZaidi&theme=dark&background=00000000&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888&border=2563EB" height="170"/>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SyedWaqarAliZaidi&style=flat-square&color=2563EB&label=Profile+Views)
+<img src="https://github-readme-stats.vercel.app/api?username=SyedWaqarAliZaidi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedWaqarAliZaidi&theme=tokyonight&hide_border=true&background=00000000" height="165"/>
 
 </div>
-
-> All stats above are **live** — pulled from the GitHub API on every page load.
-
-<br/>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SyedWaqarAliZaidi&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedWaqarAliZaidi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
 
 </div>
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=SyedWaqarAliZaidi&style=flat-square&color=2563eb&label=Profile+Views)
+
+</div>
+
+> Stats above are **live** — pulled directly from the GitHub API on every page load.
+
 <br/>
+
+<h3 align="center">Trophies</h3>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SyedWaqarAliZaidi&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+> Trophies fill in and upgrade automatically as repos gain stars, followers grow, and commit streaks build — this updates itself over time, nothing to configure.
+
+<br/>
+
+<h3 align="center">Contribution Snake</h3>
 
 <div align="center">
 
@@ -220,7 +227,7 @@ Git · GitHub
 
 </div>
 
-> Snake regenerates **daily** via GitHub Actions.
+> Regenerates **daily** via GitHub Actions.
 
 <br/>
 
@@ -234,5 +241,5 @@ current_focus:
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1a1a1a,100:000000&height=120&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,12,2&section=footer"/>
 </div>
