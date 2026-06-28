@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0:000000,50:1a1a1a,100:2563EB&amp;text=Syed%20Waqar%20Ali%20Zaidi&amp;fontColor=ffffff&amp;fontSize=40&amp;desc=AI%20%26%20Agentic%20Systems%20Developeramp;descAlignY=58&amp;descSize=18" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0:000000,100:2563EB&amp;text=Syed%20Waqar%20Ali%20Zaidi&amp;fontColor=ffffff&amp;fontSize=40" alt="header banner"/>
 
 <br/>
 
@@ -59,18 +59,18 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 | | |
 |:---:|:---|
-|  | **Multi-Agent Orchestration** — Designing 3–6 agent systems with role-based dispatch, shared state, and dynamic trust logic across two hackathon builds |
-|  | **Workflow Automation** — n8n + API integration — 15+ production workflows deployed for enterprise clients, cutting operational costs 40–60% |
-|  | **LLM Integration** — Claude, Gemini, Groq LLaMA 3.3 70B, OpenRouter — prompt design, grounded retrieval, and agent-to-agent reasoning pipelines |
-|  | **Infrastructure** — Oracle Cloud VPS, Docker, Cloudflare tunnels, self-hosted LLMs via Ollama — managed end-to-end in production |
-|  | **Problem Solving** — Building DSA fundamentals in C++, tracked openly in my [DSA repo](https://github.com/SyedWaqarAliZaidi/DSA) |
+| 🤖 | **Multi-Agent Orchestration** — Designing 3–6 agent systems with role-based dispatch, shared state, and dynamic trust logic across two hackathon builds |
+| ⚙️ | **Workflow Automation** — n8n + API integration — 15+ production workflows deployed for enterprise clients, cutting operational costs 40–60% |
+| 🧠 | **LLM Integration** — Claude, Gemini, Groq LLaMA 3.3 70B, OpenRouter — prompt design, grounded retrieval, and agent-to-agent reasoning pipelines |
+| ☁️ | **Infrastructure** — Oracle Cloud VPS, Docker, Cloudflare tunnels, self-hosted LLMs via Ollama — managed end-to-end in production |
+| 📐 | **Problem Solving** — Building DSA fundamentals in C++, tracked openly in my [DSA repo](https://github.com/SyedWaqarAliZaidi/DSA) |
 
 <br/>
 
 <h3 align="center">Featured Projects</h3>
 
 <details open>
-<summary><b> Chronicles of Eldervale</b> — Multi-Agent Fantasy RPG</summary>
+<summary><b>🏰 Chronicles of Eldervale</b> — Multi-Agent Fantasy RPG</summary>
 <br/>
 
 *A 6-agent fantasy RPG system grounded in Microsoft Foundry IQ — built for the Microsoft Agents League Hackathon.*
@@ -100,7 +100,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 </details>
 
 <details>
-<summary><b> Car Price Prediction</b> — ML & Exploratory Data Analysis</summary>
+<summary><b>🚗 Car Price Prediction</b> — ML & Exploratory Data Analysis</summary>
 <br/>
 
 *End-to-end ML pipeline analyzing 19,000+ car records, comparing five regression models.*
@@ -115,7 +115,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 </details>
 
 <details>
-<summary><b> B2B Lead Generation Automation System</b></summary>
+<summary><b>📈 B2B Lead Generation Automation System</b></summary>
 <br/>
 
 *Full pipeline for lead discovery, AI scoring, and personalized outreach — closed my first independent client on this system.*
@@ -144,7 +144,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <div align="center">
 
-|  Recognition | Details |
+| 🏆 Recognition | Details |
 |:---|:---|
 | **Google AISeekho 2026 Hackathon** | Built a multi-agent AI mobile game in 5 days with a 3-person team |
 | **Microsoft Agents League Hackathon** | Built a 6-agent reasoning RPG grounded in Foundry IQ |
@@ -203,6 +203,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 </div>
 
+> Stats above are **live** — pulled directly from the GitHub API on every page load.
 
 <br/>
 
@@ -214,6 +215,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 </div>
 
+> Trophies fill in and upgrade automatically as repos gain stars, followers grow, and commit streaks build — this updates itself over time, nothing to configure.
 
 <br/>
 
@@ -229,9 +231,15 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <br/>
 
+```yaml
+current_focus:
+  building: Agentic automation pipelines · DSA fundamentals in C++
+  exploring: MCP server ecosystems · self-hosted LLM infrastructure
+  open_to: AI Engineer · Agentic Systems Developer · AI Automation Engineer
+```
 
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=0:2563EB,50:1a1a1a,100:000000&amp;section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=0:2563EB,100:000000&amp;section=footer"/>
 </div>
