@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,12,2&text=Syed%20Waqar%20Ali%20Zaidi&fontColor=ffffff&fontSize=40&desc=AI%20%26%20Agentic%20Systems%20Developer&descAlignY=58&descSize=18" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=gradient&amp;customColorList=2,12,2&amp;text=Syed%20Waqar%20Ali%20Zaidi&amp;fontColor=ffffff&amp;fontSize=40&amp;desc=AI%20%26%20Agentic%20Systems%20Developer&amp;descAlignY=58&amp;descSize=18" alt="header banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=50&lines=AI+%26+Agentic+Systems+Developer;Python+%7C+JavaScript+%7C+C%2B%2B+%7C+C;Building+Agentic+Systems+%26+Automation" alt="typing animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2500&amp;pause=1000&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=50&amp;lines=AI+%26+Agentic+Systems+Developer;Python+%7C+JavaScript+%7C+C%2B%2B+%7C+C;Building+Agentic+Systems+%26+Automation" alt="typing animation"/>
 
 </div>
 
@@ -186,14 +186,14 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SyedWaqarAliZaidi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedWaqarAliZaidi&theme=tokyonight&hide_border=true&background=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SyedWaqarAliZaidi&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedWaqarAliZaidi&amp;theme=tokyonight&amp;hide_border=true&amp;background=00000000" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedWaqarAliZaidi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedWaqarAliZaidi&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000" height="165"/>
 
 </div>
 
@@ -211,7 +211,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SyedWaqarAliZaidi&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=SyedWaqarAliZaidi&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7" />
 
 </div>
 
@@ -241,5 +241,5 @@ current_focus:
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,12,2&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=gradient&amp;customColorList=2,12,2&amp;section=footer"/>
 </div>
