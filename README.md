@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0:000000,100:2563EB&amp;text=Syed%20Waqar%20Ali%20Zaidi&amp;fontColor=ffffff&amp;fontSize=40" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0:000000,100:4D4035&amp;text=Syed%20Waqar%20Ali%20Zaidi&amp;fontColor=ffffff&amp;fontSize=40" alt="header banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2500&amp;pause=1000&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=50&amp;lines=AI+%26+Agentic+Systems+Developer;Python+%7C+JavaScript+%7C+C%2B%2B+%7C+C;Building+Agentic+Systems+%26+Automation" alt="typing animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2500&amp;pause=1000&amp;color=4D4035&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=50&amp;lines=AI+%26+Agentic+Systems+Developer;Python+%7C+JavaScript+%7C+C%2B%2B+%7C+C;Building+Agentic+Systems+%26+Automation" alt="typing animation"/>
 
 </div>
 
@@ -38,7 +38,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <br/>
 
-<h3 align="center">Core Stack</h3>
+<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">C  O  R  E     S  T  A  C  K</span></div>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python" height="50" alt="python"/>
@@ -55,7 +55,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <br/>
 
-<h3 align="center">Technical Focus</h3>
+<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">T  E  C  H  N  I  C  A  L     F  O  C  U  S</span></div>
 
 | | |
 |:---:|:---|
@@ -67,7 +67,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <br/>
 
-<h3 align="center">Featured Projects</h3>
+<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">F  E  A  T  U  R  E  D     P  R  O  J  E  C  T  S</span></div>
 
 <details open>
 <summary><b>🏰 Chronicles of Eldervale</b> — Multi-Agent Fantasy RPG</summary>
@@ -126,7 +126,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <br/>
 
-<h3 align="center">Experience</h3>
+<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">E  X  P  E  R  I  E  N  C  E</span></div>
 
 **AI Automation Engineer & Business Executive**
 *Radiant Solutions RS (Pvt) Ltd · Karachi, Pakistan · Oct 2025 — Mar 2026*
@@ -140,7 +140,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <br/>
 
-<h3 align="center">Achievements</h3>
+<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">A  C  H  I  E  V  E  M  E  N  T  S</span></div>
 
 <div align="center">
 
@@ -156,7 +156,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <br/>
 
-<h3 align="center">Certifications</h3>
+<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">C  E  R  T  I  F  I  C  A  T  I  O  N  S</span></div>
 
 <div align="center">
 
@@ -170,7 +170,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <br/>
 
-<h3 align="center">Education</h3>
+<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">E  D  U  C  A  T  I  O  N</span></div>
 
 <div align="center">
 
@@ -182,7 +182,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <br/>
 
-<h3 align="center">GitHub Activity</h3>
+<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">G  I  T  H  U  B     A  C  T  I  V  I  T  Y</span></div>
 
 <div align="center">
 
@@ -199,7 +199,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SyedWaqarAliZaidi&amp;style=flat-square&amp;color=2563eb&amp;label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=SyedWaqarAliZaidi&amp;style=flat-square&amp;color=4d4035&amp;label=Profile+Views)
 
 </div>
 
@@ -207,7 +207,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <br/>
 
-<h3 align="center">Trophies</h3>
+<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">T  R  O  P  H  I  E  S</span></div>
 
 <div align="center">
 
@@ -219,7 +219,7 @@ Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside 
 
 <br/>
 
-<h3 align="center">Contribution Snake</h3>
+<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">C  O  N  T  R  I  B  U  T  I  O  N     S  N  A  K  E</span></div>
 
 <div align="center">
 
@@ -241,5 +241,5 @@ current_focus:
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=0:2563EB,100:000000&amp;section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=0:4D4035,100:000000&amp;section=footer"/>
 </div>
