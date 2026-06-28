@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=gradient&amp;customColorList=2,12,2&amp;text=Syed%20Waqar%20Ali%20Zaidi&amp;fontColor=ffffff&amp;fontSize=40&amp;desc=AI%20%26%20Agentic%20Systems%20Developer&amp;descAlignY=58&amp;descSize=18" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0:000000,50:1a1a1a,100:2563EB&amp;text=Syed%20Waqar%20Ali%20Zaidi&amp;fontColor=ffffff&amp;fontSize=40&amp;desc=AI%20%26%20Agentic%20Systems%20Developer&amp;descAlignY=58&amp;descSize=18" alt="header banner"/>
 
 <br/>
 
@@ -241,5 +241,5 @@ current_focus:
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=gradient&amp;customColorList=2,12,2&amp;section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=0:2563EB,50:1a1a1a,100:000000&amp;section=footer"/>
 </div>
