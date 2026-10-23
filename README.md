@@ -10,236 +10,31 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td>
+# 💫 About Me:
+BS Artificial Intelligence student at the University of Karachi and a AI Full Stack developer and AI automation engineer with real production experience. I build and ship intelligent web applications from AI-powered scholarship matchers and multi-agent game backends to full-stack pipelines with Next.js, TypeScript, Tailwind CSS, Flask, and Gemini API. I have deployed 15+ enterprise automation workflows, competed in two major hackathons building multi-agent AI systems, architected a full B2B lead generation system integrating Claude AI, n8n and MCP servers, and managed VPS infrastructure on Oracle Cloud with Docker and Cloudflare tunnels. I build, deploy, and ship not just study.
 
-I am a **BS Artificial Intelligence** student at the **University of Karachi**, focused on multi-agent AI systems and production automation engineering. My work centers on designing agentic workflows, orchestrating LLM-driven pipelines, and shipping real automation for paying clients — not just classroom projects.
 
-At **Radiant Solutions RS**, I've deployed 15+ AI automation workflows in production, architected a full B2B lead-generation system, and managed Oracle Cloud VPS infrastructure end-to-end. I've also competed in two national AI hackathons, building multi-agent systems from scratch in days, not weeks.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-waqar-ali-zaidi-295b7339a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@syed_waqar2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaidialiwaqarsyed2006@gmail.com) 
 
-Currently sharpening Data Structures & Algorithms fundamentals in C++ alongside ongoing automation engineering work.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SyedWaqarAliZaidi&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SyedWaqarAliZaidi&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SyedWaqarAliZaidi&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</td>
-</tr>
-</table>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SyedWaqarAliZaidi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
+---
+[![](https://komarev.com/ghpvc/?username=SyedWaqarAliZaidi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/syed-waqar-ali-zaidi-295b7339a/)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&amp;logo=googledrive&amp;logoColor=white)](https://drive.google.com/file/d/1iU5zUy69jLdkzqNBXaW-eDJBfYzs2LI4/view?usp=sharing)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/SyedWaqarAliZaidi)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white)](https://leetcode.com/u/SyedWaqarAliZaidi/)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:zaidialiwaqarsyed2006@gmail.com)
+  ## 💰 You can help me by Donating
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/SyedWaqarAliZaidi) 
 
-</div>
-
-<br/>
-
-<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">C  O  R  E     S  T  A  C  K</span></div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python" height="50" alt="python"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="50" alt="javascript"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp"/>
-<img src="https://skillicons.dev/icons?i=c" height="50" alt="c"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs"/>
-<img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker"/>
-<img src="https://skillicons.dev/icons?i=git" height="50" alt="git"/>
-<img src="https://skillicons.dev/icons?i=github" height="50" alt="github"/>
-<img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux"/>
-<img src="https://skillicons.dev/icons?i=gcp" height="50" alt="gcp"/>
-</p>
-
-<br/>
-
-<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">T  E  C  H  N  I  C  A  L     F  O  C  U  S</span></div>
-
-| | |
-|:---:|:---|
-| 🤖 | **Multi-Agent Orchestration** — Designing 3–6 agent systems with role-based dispatch, shared state, and dynamic trust logic across two hackathon builds |
-| ⚙️ | **Workflow Automation** — n8n + API integration — 15+ production workflows deployed for enterprise clients, cutting operational costs 40–60% |
-| 🧠 | **LLM Integration** — Claude, Gemini, Groq LLaMA 3.3 70B, OpenRouter — prompt design, grounded retrieval, and agent-to-agent reasoning pipelines |
-| ☁️ | **Infrastructure** — Oracle Cloud VPS, Docker, Cloudflare tunnels, self-hosted LLMs via Ollama — managed end-to-end in production |
-| 📐 | **Problem Solving** — Building DSA fundamentals in C++, tracked openly in my [DSA repo](https://github.com/SyedWaqarAliZaidi/DSA) |
-
-<br/>
-
-<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">F  E  A  T  U  R  E  D     P  R  O  J  E  C  T  S</span></div>
-
-<details open>
-<summary><b>🏰 Chronicles of Eldervale</b> — Multi-Agent Fantasy RPG</summary>
-<br/>
-
-*A 6-agent fantasy RPG system grounded in Microsoft Foundry IQ — built for the Microsoft Agents League Hackathon.*
-
-`Python` `Flask` `Groq LLaMA 3.3 70B` `Microsoft Foundry IQ`
-
-| | |
-|:---|:---|
-| **Scale** | 6 coordinated agents · 24 grounded lore chunks · 7-step reasoning pipeline |
-| **Repository** | [chronicles-eldervale-](https://github.com/SyedWaqarAliZaidi/chronicles-eldervale-) |
-
-</details>
-
-<details>
-<summary><b>🛡️ The Warden's Labyrinth</b> — AI Adaptive Mobile Game</summary>
-<br/>
-
-*A cyberpunk adaptive game with 3 simultaneous AI agents, built in 5 days for Google's AISeekho 2026 Hackathon.*
-
-`React` `TanStack Start` `Vite` `Cloudflare Workers`
-
-| | |
-|:---|:---|
-| **Scale** | 3 simultaneous AI agents · edge-deployed real-time backend |
-| **Repository** | [AI-Warden-Run-Google-AI-Hackathon](https://github.com/SyedWaqarAliZaidi/AI-Warden-Run-Google-AI-Hackathon) |
-
-</details>
-
-<details>
-<summary><b>🚗 Car Price Prediction</b> — ML & Exploratory Data Analysis</summary>
-<br/>
-
-*End-to-end ML pipeline analyzing 19,000+ car records, comparing five regression models.*
-
-`Python` `Scikit-learn` `XGBoost` `Pandas`
-
-| | |
-|:---|:---|
-| **Result** | Random Forest achieved the lowest Mean Absolute Error |
-| **Repository** | [Data-Science-Projects](https://github.com/SyedWaqarAliZaidi/Data-Science-Projects) |
-
-</details>
-
-<details>
-<summary><b>📈 B2B Lead Generation Automation System</b></summary>
-<br/>
-
-*Full pipeline for lead discovery, AI scoring, and personalized outreach — closed my first independent client on this system.*
-
-`n8n` `Claude AI` `Gemini` `Vibe Prospecting MCP` `Google Sheets CRM`
-
-</details>
-
-<br/>
-
-<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">E  X  P  E  R  I  E  N  C  E</span></div>
-
-**AI Automation Engineer & Business Executive**
-*Radiant Solutions RS (Pvt) Ltd · Karachi, Pakistan · Oct 2025 — Mar 2026*
-
-- Designed and deployed 15+ AI automation workflows using n8n and Zapier for enterprise clients
-- Reduced client operational costs by 40–60% through intelligent process automation
-- Built a complete B2B Lead Generation pipeline integrating Claude AI, Gemini, and Google Sheets CRM
-- Architected and managed Oracle Cloud VPS, Docker, SSH tunneling, and local LLM deployment via Ollama
-
-`Python` `n8n` `Claude AI` `Docker` `Oracle Cloud` `Ollama`
-
-<br/>
-
-<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">A  C  H  I  E  V  E  M  E  N  T  S</span></div>
-
-<div align="center">
-
-| 🏆 Recognition | Details |
-|:---|:---|
-| **Google AISeekho 2026 Hackathon** | Built a multi-agent AI mobile game in 5 days with a 3-person team |
-| **Microsoft Agents League Hackathon** | Built a 6-agent reasoning RPG grounded in Foundry IQ |
-| **Independent Client Acquisition** | Acquired and delivered for independent clients in AI automation |
-| **Production Impact** | Deployed 15+ workflows reducing client costs by 40–60% |
-| **GDGoK Member** | Active member, Google Developer Groups on Campus — University of Karachi |
-
-</div>
-
-<br/>
-
-<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">C  E  R  T  I  F  I  C  A  T  I  O  N  S</span></div>
-
-<div align="center">
-
-[![Generative AI](https://img.shields.io/badge/Generative_AI-Google-000000?style=flat-square&amp;logo=google&amp;logoColor=white)](#)
-[![LLMs](https://img.shields.io/badge/LLMs-Google-000000?style=flat-square&amp;logo=google&amp;logoColor=white)](#)
-[![AI Agents](https://img.shields.io/badge/AI_Agents-Google-000000?style=flat-square&amp;logo=google&amp;logoColor=white)](#)
-[![Data Science](https://img.shields.io/badge/Data_Science-NED_University-000000?style=flat-square&amp;logo=googlescholar&amp;logoColor=white)](#)
-[![IELTS](https://img.shields.io/badge/IELTS-7_Bands-000000?style=flat-square&amp;logo=googletranslate&amp;logoColor=white)](#)
-
-</div>
-
-<br/>
-
-<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">E  D  U  C  A  T  I  O  N</span></div>
-
-<div align="center">
-
-[![University of Karachi](https://img.shields.io/badge/BS_Artificial_Intelligence-University_of_Karachi-000000?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white)](#)
-
-`Jan 2025 — Present` · Python · C/C++ · DSA · OOP · Discrete Structures
-
-</div>
-
-<br/>
-
-<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">G  I  T  H  U  B     A  C  T  I  V  I  T  Y</span></div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SyedWaqarAliZaidi&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedWaqarAliZaidi&amp;theme=tokyonight&amp;hide_border=true&amp;background=00000000" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedWaqarAliZaidi&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000" height="165"/>
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=SyedWaqarAliZaidi&amp;style=flat-square&amp;color=4d4035&amp;label=Profile+Views)
-
-</div>
-
-> Stats above are **live** — pulled directly from the GitHub API on every page load.
-
-<br/>
-
-<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">T  R  O  P  H  I  E  S</span></div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SyedWaqarAliZaidi&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7" />
-
-</div>
-
-> Trophies fill in and upgrade automatically as repos gain stars, followers grow, and commit streaks build — this updates itself over time, nothing to configure.
-
-<br/>
-
-<div align="center" style="background-color:#4D4035; padding: 14px 0; margin: 0;"><span style="color:#FFFFFF; font-weight:bold; font-size:16px; letter-spacing:2px;">C  O  N  T  R  I  B  U  T  I  O  N     S  N  A  K  E</span></div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SyedWaqarAliZaidi/SyedWaqarAliZaidi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> Regenerates **daily** via GitHub Actions.
-
-<br/>
-
-```yaml
-current_focus:
-  building: Agentic automation pipelines · DSA fundamentals in C++
-  exploring: MCP server ecosystems · self-hosted LLM infrastructure
-  open_to: AI Engineer · Agentic Systems Developer · AI Automation Engineer
-```
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=0:4D4035,100:000000&amp;section=footer"/>
-</div>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
