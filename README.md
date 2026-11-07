@@ -17,6 +17,8 @@
 <a href='#about'>About</a> &nbsp;·&nbsp;
 <a href='#featured-projects'>Projects</a> &nbsp;·&nbsp;
 <a href='#technical-expertise'>Expertise</a> &nbsp;·&nbsp;
+<a href='#engineering-highlights'>Engineering</a> &nbsp;·&nbsp;
+<a href='#computer-science-foundations'>CS Foundations</a> &nbsp;·&nbsp;
 <a href='#services'>Services</a> &nbsp;·&nbsp;
 <a href='#experience'>Experience</a> &nbsp;·&nbsp;
 <a href='#achievements'>Achievements</a> &nbsp;·&nbsp;
@@ -120,6 +122,60 @@ flowchart LR
 
 <br/>
 
+## Engineering Highlights
+
+Real problems I hit while building and how I solved them.
+
+| Challenge | Approach | Outcome |
+|:---|:---|:---|
+| **LLM tool-calling kept failing in the lead pipeline.** Gemini's function-calling parser rejected some of Explorium's tool schemas, and Groq's free-tier token limits were too low for the schema plus results | Replaced the AI agent and MCP step with a direct REST call to Explorium's AgentSource API | Removed both blockers. Lead extraction no longer depends on an LLM at all |
+| **n8n was unreachable over HTTPS and Google OAuth kept rejecting the redirect URI** | Set up a permanent DuckDNS domain with an Nginx reverse proxy and Let's Encrypt certificates. Traced the outage to Oracle ingress rules set to stateless and an iptables REJECT rule, and added a cron job to keep DNS pointed at the right IP | Stable HTTPS endpoint and Google Sheets OAuth connected |
+| **Needed to build capable AI systems with almost no budget** | Used Gemini and Groq free tiers, an Oracle Cloud ARM VPS, Ollama for local models, and OpenStreetMap instead of paid map APIs | End-to-end systems with near-zero running cost |
+
+### Self-Hosted Infrastructure
+
+```mermaid
+flowchart TB
+    C[Clients and webhooks] -->|HTTPS| N[Nginx reverse proxy<br/>Let's Encrypt TLS]
+    DNS[DuckDNS<br/>dynamic DNS] -.-> N
+    subgraph VPS[Oracle Cloud VPS - ARM, Ubuntu 22.04]
+        N --> W[n8n workflows]
+        O[Open WebUI] --> L[Ollama<br/>Llama 3.1]
+        A[OpenClaw agent gateway]
+    end
+    W --> G[Google Sheets and Drive]
+    W --> M[LLM APIs<br/>Gemini and Groq]
+    A --> D[Discord bot]
+```
+
+<br/>
+
+## Computer Science Foundations
+
+How my coursework connects to what I build.
+
+| Foundation | Focus | Applied in |
+|:---|:---|:---|
+| **Data Structures & Algorithms** | C++ fundamentals, practiced on LeetCode | [DSA repository](https://github.com/SyedWaqarAliZaidi/DSA) |
+| **Object-Oriented Programming** | Class design and abstraction in Python and C++ | Multi-agent systems with role-based agents |
+| **Discrete Structures** | Logic, sets, graphs, and proof techniques | Workflow and pipeline design as directed graphs |
+| **Programming (Python, C, C++)** | Systems and application programming | Flask, Node.js, and automation backends |
+| **Machine Learning & Data Science** | Regression, EDA, model comparison, NED University certification | [Car Price Prediction](https://github.com/SyedWaqarAliZaidi/Data-Science-Projects): five models on 19,000+ records |
+| **AI Systems** | Multi-agent orchestration and grounded retrieval | [Chronicles of Eldervale](https://github.com/SyedWaqarAliZaidi/chronicles-eldervale-) and [The Warden's Labyrinth](https://github.com/SyedWaqarAliZaidi/AI-Warden-Run-Google-AI-Hackathon) |
+
+### Problem Solving
+
+<div align='center'>
+
+<picture>
+  <source media='(prefers-color-scheme: dark)' srcset='https://leetcard.jacoblin.cool/SyedWaqarAliZaidi?theme=dark&ext=heatmap'>
+  <img alt='LeetCode stats' src='https://leetcard.jacoblin.cool/SyedWaqarAliZaidi?theme=light&ext=heatmap' width='600'/>
+</picture>
+
+</div>
+
+<br/>
+
 ## Services
 
 I build **AI agents, n8n / Zapier workflows, and business process automation** for real businesses.
@@ -190,7 +246,7 @@ I build **AI agents, n8n / Zapier workflows, and business process automation** f
 
 | Credential | Issuer | Details |
 |:---|:---|:---|
-| **BS Artificial Intelligence** | University of Karachi | Jan 2025 — present · Python, C/C++, DSA, OOP, Discrete Structures |
+| **BS Artificial Intelligence** | University of Karachi | Jan 2025 — present · 2nd year · GPA 3.5 · Python, C/C++, DSA, OOP, Discrete Structures |
 | **Data Science** | NED University | Certification |
 | **Generative AI** | Google | Certification |
 | **Large Language Models** | Google | Certification |
@@ -251,6 +307,8 @@ current_focus:
   open_to: AI Engineer · Agentic Systems Developer · AI Automation Engineer · SWE Internship (Summer 2027)
 ```
 
-<div align='center'>
-<img width='100%' src='https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4D4035,100:000000&section=footer' alt=''/>
+<br/>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,50:4D4035,100:8B6F5A&section=footer&text=Thanks%20for%20visiting&fontColor=ffffff&fontSize=22&fontAlignY=68" alt="Footer wave"/>
 </div>
