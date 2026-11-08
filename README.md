@@ -1,8 +1,6 @@
 <div align='center'>
 
-<img width='100%' src='https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:4D4035&text=Syed%20Waqar%20Ali%20Zaidi&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20%26%20Agentic%20Systems%20Developer%20%C2%B7%20AI%20Automation%20Engineer&descSize=18&descAlignY=58&descColor=d9cfc4' alt='Syed Waqar Ali Zaidi'/>
-
-<img src='https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=4D4035&center=true&vCenter=true&width=760&height=45&lines=Building+multi-agent+AI+systems;Shipping+production+automation+for+real+clients;Python+%7C+JavaScript+%7C+C%2B%2B+%7C+n8n+%7C+LLMs' alt='Typing animation'/>
+<img src='assets/hero.svg' width='100%' alt='Syed Waqar Ali Zaidi, AI and Agentic Systems Developer'/>
 
 ![Status](https://img.shields.io/badge/Status-Open_to_opportunities-2ea44f?style=flat-square)
 ![Location](https://img.shields.io/badge/Based_in-Karachi,_Pakistan-4D4035?style=flat-square&logo=googlemaps&logoColor=white)
@@ -15,6 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-4D4035?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidialiwaqarsyed2006@gmail.com)
 
 <a href='#about'>About</a> &nbsp;·&nbsp;
+<a href='#now-next-exploring'>Now</a> &nbsp;·&nbsp;
 <a href='#featured-projects'>Projects</a> &nbsp;·&nbsp;
 <a href='#technical-expertise'>Expertise</a> &nbsp;·&nbsp;
 <a href='#engineering-highlights'>Engineering</a> &nbsp;·&nbsp;
@@ -26,9 +25,15 @@
 <a href='#github-analytics'>Analytics</a> &nbsp;·&nbsp;
 <a href='#contact'>Contact</a>
 
+<br/><br/>
+
+<img src='assets/terminal.svg' width='760' alt='Terminal introduction: whoami, role, education, projects, status'/>
+
 </div>
 
 <br/>
+
+<img src='assets/divider.svg' width='100%' alt='divider'/>
 
 ## About
 
@@ -54,10 +59,23 @@ At **Radiant Solutions RS**, I deployed 15+ AI automation workflows in productio
 | **Working as** | Independent AI Automation Engineer (since March 2026) |
 | **Previously** | AI Automation Engineer & Business Executive, Radiant Solutions RS |
 | **Core focus** | Multi-agent systems · workflow automation · LLM pipelines · self-hosted AI infrastructure |
-| **Currently** | Building agentic automation pipelines and strengthening DSA fundamentals in C++ |
 | **Open to** | Freelance automation projects · AI Engineer / Agentic Systems roles · SWE internship (Summer 2027) |
 
 <br/>
+
+<img src='assets/divider.svg' width='100%' alt='divider'/>
+
+## Now, Next, Exploring
+
+| Now | Next | Exploring |
+|:---|:---|:---|
+| Rebuilding the B2B lead-generation pipeline on self-hosted n8n | A React chat UI on Vercel that triggers the pipeline by webhook, with live status | MCP server ecosystems |
+| Strengthening DSA fundamentals in C++ | A video automation pipeline: Kokoro TTS, FFmpeg, and the YouTube API | Self-hosted LLM infrastructure |
+| Growing freelance AI automation work | Summer 2027 software engineering internship applications | Multi-agent orchestration and agentic systems |
+
+<br/>
+
+<img src='assets/divider.svg' width='100%' alt='divider'/>
 
 ## Featured Projects
 
@@ -96,6 +114,8 @@ flowchart LR
 
 <br/>
 
+<img src='assets/divider.svg' width='100%' alt='divider'/>
+
 ## Technical Expertise
 
 ### Focus Areas
@@ -122,9 +142,21 @@ flowchart LR
 
 <br/>
 
+<img src='assets/divider.svg' width='100%' alt='divider'/>
+
 ## Engineering Highlights
 
-Real problems I hit while building and how I solved them.
+<div align='center'>
+<table>
+<tr>
+<td align='center' width='33%'><h4>Deterministic where it counts</h4>Use plain code and direct APIs before reaching for an LLM</td>
+<td align='center' width='33%'><h4>Cost-aware by default</h4>Free tiers, self-hosting, and open data over paid services</td>
+<td align='center' width='33%'><h4>Ship fast, then iterate</h4>Working systems in days, refined with real feedback</td>
+</tr>
+</table>
+</div>
+
+Real problems I hit while building, and how I solved them.
 
 | Challenge | Approach | Outcome |
 |:---|:---|:---|
@@ -150,6 +182,8 @@ flowchart TB
 
 <br/>
 
+<img src='assets/divider.svg' width='100%' alt='divider'/>
+
 ## Computer Science Foundations
 
 How my coursework connects to what I build.
@@ -163,18 +197,9 @@ How my coursework connects to what I build.
 | **Machine Learning & Data Science** | Regression, EDA, model comparison, NED University certification | [Car Price Prediction](https://github.com/SyedWaqarAliZaidi/Data-Science-Projects): five models on 19,000+ records |
 | **AI Systems** | Multi-agent orchestration and grounded retrieval | [Chronicles of Eldervale](https://github.com/SyedWaqarAliZaidi/chronicles-eldervale-) and [The Warden's Labyrinth](https://github.com/SyedWaqarAliZaidi/AI-Warden-Run-Google-AI-Hackathon) |
 
-### Problem Solving
-
-<div align='center'>
-
-<picture>
-  <source media='(prefers-color-scheme: dark)' srcset='https://leetcard.jacoblin.cool/SyedWaqarAliZaidi?theme=dark&ext=heatmap'>
-  <img alt='LeetCode stats' src='https://leetcard.jacoblin.cool/SyedWaqarAliZaidi?theme=light&ext=heatmap' width='600'/>
-</picture>
-
-</div>
-
 <br/>
+
+<img src='assets/divider.svg' width='100%' alt='divider'/>
 
 ## Services
 
@@ -204,6 +229,8 @@ I build **AI agents, n8n / Zapier workflows, and business process automation** f
 
 <br/>
 
+<img src='assets/divider.svg' width='100%' alt='divider'/>
+
 ## Experience
 
 ### Independent AI Automation Engineer
@@ -228,6 +255,8 @@ I build **AI agents, n8n / Zapier workflows, and business process automation** f
 
 <br/>
 
+<img src='assets/divider.svg' width='100%' alt='divider'/>
+
 ## Achievements
 
 | Recognition | Details |
@@ -242,6 +271,8 @@ I build **AI agents, n8n / Zapier workflows, and business process automation** f
 
 <br/>
 
+<img src='assets/divider.svg' width='100%' alt='divider'/>
+
 ## Education and Certifications
 
 | Credential | Issuer | Details |
@@ -254,6 +285,8 @@ I build **AI agents, n8n / Zapier workflows, and business process automation** f
 | **IELTS** | — | 7 bands |
 
 <br/>
+
+<img src='assets/divider.svg' width='100%' alt='divider'/>
 
 ## GitHub Analytics
 
@@ -289,6 +322,8 @@ I build **AI agents, n8n / Zapier workflows, and business process automation** f
 
 <br/>
 
+<img src='assets/divider.svg' width='100%' alt='divider'/>
+
 ## Contact
 
 | Channel | Link |
@@ -300,15 +335,6 @@ I build **AI agents, n8n / Zapier workflows, and business process automation** f
 | **LeetCode** | [SyedWaqarAliZaidi](https://leetcode.com/u/SyedWaqarAliZaidi/) |
 | **Radiant Solutions** | [radiantsolutionsrs.com](https://radiantsolutionsrs.com) |
 
-```yaml
-current_focus:
-  building: Agentic automation pipelines · Freelance automation projects · DSA fundamentals in C++
-  exploring: MCP server ecosystems · self-hosted LLM infrastructure
-  open_to: AI Engineer · Agentic Systems Developer · AI Automation Engineer · SWE Internship (Summer 2027)
-```
-
 <br/>
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,50:4D4035,100:8B6F5A&section=footer&text=Thanks%20for%20visiting&fontColor=ffffff&fontSize=22&fontAlignY=68" alt="Footer wave"/>
-</div>
+<img src='assets/footer.svg' width='100%' alt='Thanks for visiting'/>
