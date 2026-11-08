@@ -1,0 +1,20 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 400' width='900' height='400' role='img' aria-label='Terminal introduction to Syed Waqar Ali Zaidi'>
+<rect x='1' y='1' width='898' height='398' rx='12' fill='#0d1117' stroke='#30363d'/>
+<path d='M1 13a12 12 0 0 1 12-12h874a12 12 0 0 1 12 12v30H1z' fill='#161b22'/>
+<circle cx='28' cy='22' r='6' fill='#ff5f56'/><circle cx='50' cy='22' r='6' fill='#ffbd2e'/><circle cx='72' cy='22' r='6' fill='#27c93f'/>
+<text x='450' y='27' text-anchor='middle' font-family='Consolas, Menlo, Monaco, monospace' font-size='13' fill='#8b949e'>waqar@karachi: ~/profile</text>
+<g font-family='Consolas, Menlo, Monaco, Courier New, monospace' font-size='16'>
+<g opacity='0'><set attributeName='opacity' to='1' begin='0.5s' fill='freeze'/><text x='28' y='84'><tspan fill='#7ee787'>$</tspan><tspan fill='#e6edf3'> whoami</tspan></text></g>
+<g opacity='0'><set attributeName='opacity' to='1' begin='1s' fill='freeze'/><text x='28' y='108' fill='#ffa657'>syed-waqar-ali-zaidi</text></g>
+<g opacity='0'><set attributeName='opacity' to='1' begin='1.8s' fill='freeze'/><text x='28' y='142'><tspan fill='#7ee787'>$</tspan><tspan fill='#e6edf3'> cat role.txt</tspan></text></g>
+<g opacity='0'><set attributeName='opacity' to='1' begin='2.3s' fill='freeze'/><text x='28' y='166' fill='#d9cfc4'>AI &amp; Agentic Systems Developer · AI Automation Engineer</text></g>
+<g opacity='0'><set attributeName='opacity' to='1' begin='3.1s' fill='freeze'/><text x='28' y='200'><tspan fill='#7ee787'>$</tspan><tspan fill='#e6edf3'> cat education.txt</tspan></text></g>
+<g opacity='0'><set attributeName='opacity' to='1' begin='3.6s' fill='freeze'/><text x='28' y='224' fill='#d9cfc4'>BS Artificial Intelligence · University of Karachi</text></g>
+<g opacity='0'><set attributeName='opacity' to='1' begin='4.4s' fill='freeze'/><text x='28' y='258'><tspan fill='#7ee787'>$</tspan><tspan fill='#e6edf3'> ls projects/</tspan></text></g>
+<g opacity='0'><set attributeName='opacity' to='1' begin='4.9s' fill='freeze'/><text x='28' y='282' fill='#a5d6ff'>b2b-lead-gen/&#160;&#160;&#160;tahaffuz/&#160;&#160;&#160;scholarfind/&#160;&#160;&#160;eldervale/&#160;&#160;&#160;warden-labyrinth/</text></g>
+<g opacity='0'><set attributeName='opacity' to='1' begin='5.7s' fill='freeze'/><text x='28' y='316'><tspan fill='#7ee787'>$</tspan><tspan fill='#e6edf3'> ./status.sh</tspan></text></g>
+<g opacity='0'><set attributeName='opacity' to='1' begin='6.2s' fill='freeze'/><text x='28' y='340'><tspan fill='#7ee787'>●</tspan><tspan fill='#d9cfc4'> open to freelance · AI roles · SWE internship (Summer 2027)</tspan></text></g>
+<g opacity='0'><set attributeName='opacity' to='1' begin='7s' fill='freeze'/><text x='28' y='374'><tspan fill='#7ee787'>$</tspan></text></g>
+</g>
+<rect x='46' y='360' width='10' height='18' fill='#e6edf3' opacity='0'><animate attributeName='opacity' values='1;0;1' dur='1s' begin='7s' repeatCount='indefinite'/></rect>
+</svg>
