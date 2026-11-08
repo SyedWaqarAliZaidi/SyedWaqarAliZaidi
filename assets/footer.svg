@@ -1,0 +1,7 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 200' width='1200' height='200' role='img' aria-label='Thanks for visiting'>
+<g transform='translate(0,60)'><g opacity='0.45' fill='#8B6F5A'><animateTransform attributeName='transform' type='translate' from='0 0' to='-600 0' dur='10s' repeatCount='indefinite'/><path d='M0 20Q150 -10 300 20T600 20T900 20T1200 20T1500 20T1800 20T2100 20T2400 20V160H0Z'/></g></g>
+<g transform='translate(0,82)'><g opacity='0.8' fill='#4D4035'><animateTransform attributeName='transform' type='translate' from='-600 0' to='0 0' dur='7s' repeatCount='indefinite'/><path d='M0 20Q150 -10 300 20T600 20T900 20T1200 20T1500 20T1800 20T2100 20T2400 20V160H0Z'/></g></g>
+<g transform='translate(0,106)'><g fill='#0a0a0b'><animateTransform attributeName='transform' type='translate' from='0 0' to='-600 0' dur='12s' repeatCount='indefinite'/><path d='M0 20Q150 -10 300 20T600 20T900 20T1200 20T1500 20T1800 20T2100 20T2400 20V160H0Z'/></g></g>
+<text x='600' y='152' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='24' font-weight='600' fill='#ffffff'>Thanks for visiting</text>
+<text x='600' y='178' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='14' fill='#b8a898'>Syed Waqar Ali Zaidi  ·  Karachi, Pakistan</text>
+</svg>
