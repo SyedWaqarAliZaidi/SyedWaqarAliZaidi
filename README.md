@@ -131,6 +131,14 @@ flowchart LR
 
 ### Technology Stack
 
+<div align='center'>
+
+<img src='assets/orbit.svg' width='640' alt='Animated orbit diagram of my technology stack: Python, C++, TypeScript, n8n, Claude, Gemini, Whisper, Docker, Oracle Cloud, Nginx, React, Vercel'/>
+
+</div>
+
+<br/>
+
 | Category | Technologies |
 |:---|:---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-4D4035?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-4D4035?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-4D4035?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-4D4035?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-4D4035?style=flat-square&logo=c&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-4D4035?style=flat-square&logo=html5&logoColor=white) |
@@ -314,7 +322,7 @@ I build **AI agents, n8n / Zapier workflows, and business process automation** f
 
 <br/><br/>
 
-<img src='https://raw.githubusercontent.com/SyedWaqarAliZaidi/SyedWaqarAliZaidi/output/github-contribution-grid-snake-dark.svg' width='100%' alt='Contribution snake'/>
+<img src='https://raw.githubusercontent.com/SyedWaqarAliZaidi/SyedWaqarAliZaidi/output/github-contribution-grid-snake.svg?v=2' width='100%' alt='Contribution snake eating my contributions'/>
 
 <sub>Stats are live from the GitHub API. The contribution snake regenerates daily via GitHub Actions.</sub>
 
