@@ -1,0 +1,45 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 520' width='760' height='520' role='img' aria-label='Animated orbit diagram of my technology stack'>
+<defs>
+<linearGradient id='sp' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#0a0a0b'/><stop offset='1' stop-color='#1f1813'/></linearGradient>
+<radialGradient id='sun'><stop offset='0' stop-color='#ffe3bf'/><stop offset='0.55' stop-color='#d9a877'/><stop offset='1' stop-color='#8B6F5A'/></radialGradient>
+<radialGradient id='halo'><stop offset='0' stop-color='#d9a877' stop-opacity='0.45'/><stop offset='1' stop-color='#d9a877' stop-opacity='0'/></radialGradient>
+</defs>
+<rect width='760' height='520' rx='16' fill='url(#sp)'/>
+<g fill='#e8d9c8'>
+<circle cx='60' cy='90' r='1.4'><animate attributeName='opacity' values='0.2;1;0.2' dur='3s' begin='0s' repeatCount='indefinite'/></circle>
+<circle cx='130' cy='440' r='1.2'><animate attributeName='opacity' values='0.2;1;0.2' dur='4s' begin='1s' repeatCount='indefinite'/></circle>
+<circle cx='210' cy='60' r='1'><animate attributeName='opacity' values='0.2;1;0.2' dur='5s' begin='2s' repeatCount='indefinite'/></circle>
+<circle cx='95' cy='250' r='1.3'><animate attributeName='opacity' values='0.2;1;0.2' dur='3.5s' begin='0.5s' repeatCount='indefinite'/></circle>
+<circle cx='690' cy='80' r='1.5'><animate attributeName='opacity' values='0.2;1;0.2' dur='4.5s' begin='1.5s' repeatCount='indefinite'/></circle>
+<circle cx='710' cy='300' r='1.2'><animate attributeName='opacity' values='0.2;1;0.2' dur='3s' begin='2.5s' repeatCount='indefinite'/></circle>
+<circle cx='650' cy='470' r='1.4'><animate attributeName='opacity' values='0.2;1;0.2' dur='5s' begin='0.8s' repeatCount='indefinite'/></circle>
+<circle cx='300' cy='490' r='1'><animate attributeName='opacity' values='0.2;1;0.2' dur='4s' begin='1.2s' repeatCount='indefinite'/></circle>
+<circle cx='560' cy='40' r='1.1'><animate attributeName='opacity' values='0.2;1;0.2' dur='3.2s' begin='2.2s' repeatCount='indefinite'/></circle>
+<circle cx='40' cy='380' r='1.3'><animate attributeName='opacity' values='0.2;1;0.2' dur='4.2s' begin='0.3s' repeatCount='indefinite'/></circle>
+</g>
+<text x='28' y='38' font-family='Consolas, Menlo, Monaco, monospace' font-size='12' letter-spacing='4' fill='#b08968'>STACK ORBIT</text>
+<g transform='translate(380,262)'>
+<g fill='none' stroke='#b08968' stroke-opacity='0.28' stroke-dasharray='3 6'><circle r='95'/><circle r='150'/><circle r='210'/></g>
+<circle r='70' fill='url(#halo)'><animate attributeName='r' values='58;82;58' dur='4s' repeatCount='indefinite'/></circle>
+<circle r='30' fill='url(#sun)'/>
+<text y='7' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='20' font-weight='700' fill='#2a1b10'>AI</text>
+<g><animateTransform attributeName='transform' type='rotate' from='0' to='360' dur='24s' repeatCount='indefinite'/>
+<g transform='translate(95,0)'><g><animateTransform attributeName='transform' type='rotate' from='0' to='-360' dur='24s' repeatCount='indefinite'/><rect x='-28' y='-12' width='56' height='24' rx='12' fill='#1b1510' stroke='#b08968' stroke-opacity='0.8'/><text y='4' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#e8d9c8'>Python</text></g></g>
+<g transform='translate(-47.5,82.3)'><g><animateTransform attributeName='transform' type='rotate' from='0' to='-360' dur='24s' repeatCount='indefinite'/><rect x='-22' y='-12' width='44' height='24' rx='12' fill='#1b1510' stroke='#b08968' stroke-opacity='0.8'/><text y='4' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#e8d9c8'>C++</text></g></g>
+<g transform='translate(-47.5,-82.3)'><g><animateTransform attributeName='transform' type='rotate' from='0' to='-360' dur='24s' repeatCount='indefinite'/><rect x='-42' y='-12' width='84' height='24' rx='12' fill='#1b1510' stroke='#b08968' stroke-opacity='0.8'/><text y='4' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#e8d9c8'>TypeScript</text></g></g>
+</g>
+<g><animateTransform attributeName='transform' type='rotate' from='360' to='0' dur='38s' repeatCount='indefinite'/>
+<g transform='translate(106,106)'><g><animateTransform attributeName='transform' type='rotate' from='0' to='360' dur='38s' repeatCount='indefinite'/><rect x='-22' y='-12' width='44' height='24' rx='12' fill='#1b1510' stroke='#d9a877' stroke-opacity='0.8'/><text y='4' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#e8d9c8'>n8n</text></g></g>
+<g transform='translate(-106,106)'><g><animateTransform attributeName='transform' type='rotate' from='0' to='360' dur='38s' repeatCount='indefinite'/><rect x='-29' y='-12' width='58' height='24' rx='12' fill='#1b1510' stroke='#d9a877' stroke-opacity='0.8'/><text y='4' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#e8d9c8'>Claude</text></g></g>
+<g transform='translate(-106,-106)'><g><animateTransform attributeName='transform' type='rotate' from='0' to='360' dur='38s' repeatCount='indefinite'/><rect x='-30' y='-12' width='60' height='24' rx='12' fill='#1b1510' stroke='#d9a877' stroke-opacity='0.8'/><text y='4' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#e8d9c8'>Gemini</text></g></g>
+<g transform='translate(106,-106)'><g><animateTransform attributeName='transform' type='rotate' from='0' to='360' dur='38s' repeatCount='indefinite'/><rect x='-32' y='-12' width='64' height='24' rx='12' fill='#1b1510' stroke='#d9a877' stroke-opacity='0.8'/><text y='4' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#e8d9c8'>Whisper</text></g></g>
+</g>
+<g><animateTransform attributeName='transform' type='rotate' from='0' to='360' dur='56s' repeatCount='indefinite'/>
+<g transform='translate(210,0)'><g><animateTransform attributeName='transform' type='rotate' from='0' to='-360' dur='56s' repeatCount='indefinite'/><rect x='-29' y='-12' width='58' height='24' rx='12' fill='#1b1510' stroke='#8B6F5A'/><text y='4' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#e8d9c8'>Docker</text></g></g>
+<g transform='translate(64.9,199.7)'><g><animateTransform attributeName='transform' type='rotate' from='0' to='-360' dur='56s' repeatCount='indefinite'/><rect x='-48' y='-12' width='96' height='24' rx='12' fill='#1b1510' stroke='#8B6F5A'/><text y='4' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#e8d9c8'>Oracle Cloud</text></g></g>
+<g transform='translate(-169.9,123.4)'><g><animateTransform attributeName='transform' type='rotate' from='0' to='-360' dur='56s' repeatCount='indefinite'/><rect x='-27' y='-12' width='54' height='24' rx='12' fill='#1b1510' stroke='#8B6F5A'/><text y='4' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#e8d9c8'>Nginx</text></g></g>
+<g transform='translate(-169.9,-123.4)'><g><animateTransform attributeName='transform' type='rotate' from='0' to='-360' dur='56s' repeatCount='indefinite'/><rect x='-27' y='-12' width='54' height='24' rx='12' fill='#1b1510' stroke='#8B6F5A'/><text y='4' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#e8d9c8'>React</text></g></g>
+<g transform='translate(64.9,-199.7)'><g><animateTransform attributeName='transform' type='rotate' from='0' to='-360' dur='56s' repeatCount='indefinite'/><rect x='-29' y='-12' width='58' height='24' rx='12' fill='#1b1510' stroke='#8B6F5A'/><text y='4' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#e8d9c8'>Vercel</text></g></g>
+</g>
+</g>
+</svg>
